@@ -1,0 +1,17 @@
+p {
+    text-align : middle;
+}
+ h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration:  red line-through;
+ }
+ a {
+    text-decoration: none;
+ }
+ #h1 {
+    font-weight: normal;
+ }
+ #one {
+   font-family: arial;
+ }
